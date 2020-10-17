@@ -16,10 +16,10 @@
 ## Screenshots
 
 #### Normal Mode
-![normal mode]()
+![normal mode](https://github.com/Yazidn/jellyfish/blob/master/screenshots/nrml.png?raw=true)
 
 #### Fullscreen
-![fullscreen mode]()
+![fullscreen mode](https://github.com/Yazidn/jellyfish/blob/master/screenshots/fs.png?raw=true)
 
 ## Developers
 - Built using [Svelte](https://svelte.dev/)
